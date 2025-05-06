@@ -15,8 +15,22 @@ Make sure to verify the signature files manually
 
 4. Download the sample PCAP file from the link below.
 
-   ![6](https://github.com/user-attachments/assets/bd1b11b0-946f-44ee-9834-b1930134d9f6)
+![6](https://github.com/user-attachments/assets/bd1b11b0-946f-44ee-9834-b1930134d9f6)
 Link : https://www.malware-traffic-analysis.net/2022/01/07/index.html
 
 Refer to the document below to learn more about importing PCAP files on Security Onion
 https://docs.securityonion.net/en/latest/pcap.html
+
+5. Traffic analysis using Wireshark!
+![image](https://github.com/user-attachments/assets/e13db3fd-d389-4c59-93b2-23f249d6f868)
+
+7. Malware Analysis using Security Onion.
+![image](https://github.com/user-attachments/assets/4f0efafc-4ae5-4ff4-88ae-a43451507b40)
+
+8. Determining the hostname of the flagged user.
+![image](https://github.com/user-attachments/assets/c06d4e5b-52c1-467d-833e-7453a4689f35)
+
+9. Escalating the alert.
+![image](https://github.com/user-attachments/assets/44a4bf78-d949-49fe-b0ae-889434f4cec4)
+
+
